@@ -7,6 +7,7 @@ public class fixTheHelix
 				
 				System.out.println("Enter DNA Sequence:");
 				System.out.println("Made another change.");
+				System.out.println("made change from home");
 
 			}
 
